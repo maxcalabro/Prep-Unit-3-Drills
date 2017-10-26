@@ -1,0 +1,52 @@
+1)
+14, 12, 11, 10, 8, 6, 8
+
+mean = 69/7 = 9.86 (using 10 for all calcs)
+median = 10
+mode = 8
+var = (16 + 4 + 1 + 0 + 4 + 16 + 4)/7 = 6.43
+std = sqrt(var) = 2.54
+se = std/sqrt(7) = 0.96
+
+
+2)
+I would pick Mean and Std because they are reasonable and representative of the group. There aren’t any major outliers to disrupt the Mean, and Std seems to capture all but the Max and Min values for age. 
+
+
+3)
+14, 12, 11, 10, 8, 7, 8
+Everything will change except for Median and Mode. The Mean will rise slightly (actually just to what I rounded to), and all the measures of variance will decrease slightly because 7 is closer to 10 than 6 was.
+
+mean = 10 (exactly)
+median = 10
+mode = 10
+var = (16+4+1+4+9+4)/7 = 5.43
+std = 2.33
+se = 0.88
+
+
+4) 14, 12, 11, 10, 8, 7, 1
+
+mean = 63/7 = 9
+median = 10
+mode = None
+var = (25 + 9 + 4 + 1 + 1 + 4 + 64)/7 = 15.43
+std = 3.92
+se = 1.48
+
+
+5)
+TV Guide 20% fans 
+Entertainment Weekly 23% fans 
+Pop Culture Today 17% fans 
+SciPhi Phanatic 5% fans
+
+Since SciPhi Phanatic sounds like a specialty magazine (without having subscriber numbers to check), I’d probably drop it from the dataset and just calculate based on the three more popular magazines.
+
+[20, 23, 17]
+mean = 20
+median = 20
+mode = None
+var = (9 + 9)/3 = 6
+std = 2.4
+se = 1.4
