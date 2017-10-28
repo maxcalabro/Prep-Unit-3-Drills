@@ -4,5 +4,9 @@ Goats = 2/3
 
 Choose one door, Host reveals one Goat. Do you switch?
 
-Because you know the host is going to reveal one Goat Door, you essentially get to choose at the very beginning of the problem whether you want to open a single door, or open the best of the remaining two doors. If you don't change your answer, you're stuck with the 1/3 chance that you guessed it right initially. But if you switch your door, you're taking advantage of the added information from the host, and you know you'll be getting the best of what's left: 2/3 chance that it's a car.
+Because you know the host is going to reveal one Goat Door, you essentially get to choose at the very 
+beginning of the problem whether you want to open a single door, or open the best of the remaining two doors. 
+If you don't change your answer, you're stuck with the 1/3 chance that you guessed it right initially. 
+But if you switch your door, you're taking advantage of the added information from the host, and you know 
+you'll be getting the best of what's left: 2/3 chance that it's a car.
 
